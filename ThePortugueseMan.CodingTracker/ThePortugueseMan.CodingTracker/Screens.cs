@@ -228,7 +228,7 @@ internal class Screens
 
             if (sessionToInsert.Duration <= TimeSpan.FromMinutes(5))
             {
-                Console.WriteLine("This session was too short to register.");
+                Console.WriteLine("This session was too short to register. A session must be at least 5min long.");
             }
             else
             {
