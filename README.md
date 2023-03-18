@@ -68,8 +68,9 @@ A CRUD based console application that allows the user to track the time spent co
 
 
 ## Resources
-- The [C#Academy project](https://www.thecsharpacademy.com/project/14) was the project guide.
-- I reused a lot of code from my [previous project](https://github.com/ThePortugueseMan/ThePortugueseMan.CodingTracker).
-- The [C#Academy discord community](https://discord.com/invite/JVnwYdM79C) that are always ready to help, and came in clutch with my SQL Server troubles (shout out to ghoulam!)
+- The [C#Academy project](https://www.thecsharpacademy.com/project/13) was the project guide.
+- I used a lot of code from my [previous project](https://github.com/ThePortugueseMan/CodeReviews.Console.HabitTracker).
+- The [C#Academy discord community](https://discord.com/invite/JVnwYdM79C) that are always ready to help!
 - The [C#Academy coding coventions](https://thecsharpacademy.com/article/58) to help clean up the code and stick to the coding conventions.
+- This [tidy ReadMe](https://github.com/thags/ConsoleTimeLogger#readme) was an inspiration for my own
 - Various resources from all over the web.
